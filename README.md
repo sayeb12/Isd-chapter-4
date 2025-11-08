@@ -3,7 +3,7 @@
 Of course. Here are the simple answers to your questions.
 
 
-**Q: How would you differentiate between the mission statement and the objective statement? Compare and contrast them.**
+**Question - 1: How would you differentiate between the mission statement and the objective statement? Compare and contrast them.**
 
 **A:**
 
@@ -23,7 +23,7 @@ Of course. Here are the simple answers to your questions.
 
 ---
 
-**Q: Identify the steps of corporate strategic planning illustrated in the scenario.**
+**Question - 2: Identify the steps of corporate strategic planning illustrated in the scenario.**
 
 **A:**
 The scenario illustrates these four steps of strategic planning:
@@ -37,7 +37,7 @@ The scenario illustrates these four steps of strategic planning:
 
 
 
-**Q: Discuss the evaluation criteria used in classifying and ranking projects. How do these criteria impact the decision-making process for project selection?**
+**Question - 3: Discuss the evaluation criteria used in classifying and ranking projects. How do these criteria impact the decision-making process for project selection?**
 
 **A:**
 
@@ -59,7 +59,7 @@ These criteria act as a filter to help managers make smart choices.
 *   Of course. Here are the simple answers to the new questions, formatted for your PDF.
 
 
-**Q: Explain the differences between top-down and bottom-up planning approaches and express your preference for one, with appropriate justification.**
+**Question - 4: Explain the differences between top-down and bottom-up planning approaches and express your preference for one, with appropriate justification.**
 
 **A:**
 
@@ -80,7 +80,7 @@ I prefer a **hybrid approach** that combines the best of both.
 
 ---
 
-**Q: Suppose your boss has assigned you to identify and select information system development projects in your organization. Now identify the possible evaluation criteria that will help you to classify and rank the project.**
+**Question - 5: Suppose your boss has assigned you to identify and select information system development projects in your organization. Now identify the possible evaluation criteria that will help you to classify and rank the project.**
 
 **A:**
 To classify and rank the projects, I would use these evaluation criteria:
@@ -94,7 +94,7 @@ To classify and rank the projects, I would use these evaluation criteria:
 
 ---
 
-**Q: Imagine you're a project manager planning to improve a worldwide supply chain system. Your goal is to pick the best IT project. Integrate and prioritize essential factors to ensure smooth integration across all their global operations.**
+**Question - 6: Imagine you're a project manager planning to improve a worldwide supply chain system. Your goal is to pick the best IT project. Integrate and prioritize essential factors to ensure smooth integration across all their global operations.**
 
 **A:**
 To pick the best IT project for a global supply chain, I would prioritize the factors in this order:
